@@ -1,6 +1,7 @@
 # Feature Wishlist
 * Friends List
- * Simple Friend Adding
+    * Fast and Responsive
+    * Simple Friend Adding
 * Text Chat
 * Audio Chat
 * Video Chat
