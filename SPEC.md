@@ -9,8 +9,8 @@
 Standrd Node ID store, local based on Kademlia XOR routing.
 
 ### Friend Nodes & Routing
-*Explanation by way of example:* Alice wants to talk to Charlie. Alice sends out the request To Bob, person in her friends list, who XORs closest to Charlie. If he does not know Charlie, he sends the request in turn to the closest XOR contact he knows.
-**Note: Is this necessary? Does it have any real benefits over regular XOR routing?**
+**Explanation by way of example:** Alice wants to talk to Charlie. Alice sends out the request To Bob, person in her friends list, who XORs closest to Charlie. If he does not know Charlie, he sends the request in turn to the closest XOR contact he knows.
+*Note: Is this necessary? Does it have any real benefits over regular XOR routing?*
 
 
 ## Reference Docs
